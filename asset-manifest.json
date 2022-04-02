@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41e18f2b.chunk.css",
+    "main.js": "/static/js/main.be711600.chunk.js",
+    "main.js.map": "/static/js/main.be711600.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5a76ff7c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5a76ff7c.js.map",
+    "static/css/2.2649ca84.chunk.css": "/static/css/2.2649ca84.chunk.css",
+    "static/js/2.857d4361.chunk.js": "/static/js/2.857d4361.chunk.js",
+    "static/js/2.857d4361.chunk.js.map": "/static/js/2.857d4361.chunk.js.map",
+    "static/js/3.96e06d4e.chunk.js": "/static/js/3.96e06d4e.chunk.js",
+    "static/js/3.96e06d4e.chunk.js.map": "/static/js/3.96e06d4e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2649ca84.chunk.css.map": "/static/css/2.2649ca84.chunk.css.map",
+    "static/css/main.41e18f2b.chunk.css.map": "/static/css/main.41e18f2b.chunk.css.map",
+    "static/js/2.857d4361.chunk.js.LICENSE.txt": "/static/js/2.857d4361.chunk.js.LICENSE.txt",
+    "static/media/PICITY.cd281e77.svg": "/static/media/PICITY.cd281e77.svg",
+    "static/media/clubs.73a30592.jpeg": "/static/media/clubs.73a30592.jpeg",
+    "static/media/logo.93a93f65.svg": "/static/media/logo.93a93f65.svg",
+    "static/media/opportunities.a889f2eb.jpg": "/static/media/opportunities.a889f2eb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a76ff7c.js",
+    "static/css/2.2649ca84.chunk.css",
+    "static/js/2.857d4361.chunk.js",
+    "static/css/main.41e18f2b.chunk.css",
+    "static/js/main.be711600.chunk.js"
+  ]
+}
